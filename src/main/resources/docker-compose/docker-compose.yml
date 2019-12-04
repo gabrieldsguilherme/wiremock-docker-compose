@@ -1,0 +1,9 @@
+version: '3.3'
+services:
+  wiremock:
+    container_name: wiremock_example
+    image: rodolpheche/wiremock:latest
+    ports:
+      - "9999:8080"
+    volumes:
+      - ./wiremock/mappings:/home/wiremock/mappings

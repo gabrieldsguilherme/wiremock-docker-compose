@@ -1,0 +1,15 @@
+{
+    "id" : "076b6bd1-8d66-45ce-9a8c-3be510913d7d",
+    "request": {
+        "method": "GET",
+        "url": "/dev/customer/v1/customers"
+    },
+    "response": {
+        "status": 200,
+        "headers":
+        {
+          "Content-Type" : "application/json"
+        },
+        "body": "{\"id\": \"6709b24c-5718-40fe-90f2-79142a7d0169\", \"document\": \"12332112332\", \"name\": \"Gabriel Guilherme\"}"
+    }
+}

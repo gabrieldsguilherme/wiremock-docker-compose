@@ -1,0 +1,10 @@
+{
+    "id" : "076b6bd1-8d66-45ce-9a8c-3be510913d7d",
+    "request": {
+        "method": "GET",
+        "url": "/dev/customer/v1/customers"
+    },
+    "response": {
+        "status": 500
+    }
+}

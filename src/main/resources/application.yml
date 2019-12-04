@@ -1,0 +1,6 @@
+server:
+    servlet:
+        context-path: /greeting/v1
+
+customer-external-service:
+    url: http://localhost:9999/dev/customer/v1/customers
